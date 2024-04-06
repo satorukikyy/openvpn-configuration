@@ -27,15 +27,18 @@ Example:
 Username: vpnbook, Password: emw79zs
 
 Install OpenVPN Connect: Download and install the OpenVPN Connect application from the Play Store.
-Import Configuration: Open the app and tap the "+" symbol at the bottom right corner. Select "Upload File" and choose the downloaded OpenVPN configuration profile.
+Import Configuration: Open the app and tap the "+" symbol at the bottom right corner. 
+Select "Upload File" and choose the downloaded OpenVPN configuration profile.
 Enter Credentials: Input the Username and Password retrieved from VPNBook (example provided above) and save the configuration.
 
 Option 2: Using IP Speed
 
 Access IP Speed Website: Visit the IP Speed website: https://ipspeed.info
-Download Server Profile: Navigate to the "OpenVPN" menu and select the desired server profile based on your preferred region. Click to download the profile.
+Download Server Profile: Navigate to the "OpenVPN" menu and select the desired server profile based on your preferred region. 
+Click to download the profile.
 Import Configuration: Launch the OpenVPN Connect app, tap the "+" symbol, and select "Upload File." Choose the downloaded OpenVPN profile.
 Connect: The downloaded profile should be ready for immediate use.
 
 Conclusion:
-By following these steps, you can establish a secure OpenVPN connection on your HP device. Remember to choose a reliable configuration source and consider the advantages of paid VPN services for enhanced security and privacy.
+By following these steps, you can establish a secure OpenVPN connection on your HP device. 
+Remember to choose a reliable configuration source and consider the advantages of paid VPN services for enhanced security and privacy.
