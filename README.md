@@ -1,7 +1,6 @@
 # openvpn-configuration
 OpenVPN Connect Configuration for Mobile Device
 
-OpenVPN Connect Configuration for Mobile Device
 Introduction:
 
 This guide details the configuration process for using OpenVPN on HP devices to enhance online security, anonymity, and remote network access. OpenVPN is a powerful open-source software that encrypts your internet traffic, safeguarding your privacy and enabling access to geo-restricted content.
