@@ -24,8 +24,7 @@ Select a Server: Locate the "Free OpenVPN" table and choose a server from the li
 Obtain Credentials: Locate the "Free OpenVPN" table at the bottom of the page to find the Username and Password for the chosen server.
 
 Example:
-Username: vpnbook
-Password: emw79zs
+Username: vpnbook, Password: emw79zs
 
 Install OpenVPN Connect: Download and install the OpenVPN Connect application from the Play Store.
 Import Configuration: Open the app and tap the "+" symbol at the bottom right corner. Select "Upload File" and choose the downloaded OpenVPN configuration profile.
